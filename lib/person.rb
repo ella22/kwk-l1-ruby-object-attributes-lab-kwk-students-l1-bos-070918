@@ -17,7 +17,7 @@ class Person
     @job 
   end 
   
-  Beyonce
+beyonce
   
   
   
