@@ -18,7 +18,8 @@ class Person
   end 
   
 beyonce = Person.new
-puts 
+puts person.name = "Beyonce"
+puts person.job = "Singer"
   
   
   
